@@ -345,7 +345,7 @@ To see a survey of RGBD datasets, check out Michael Firman's [collection](http:/
 
 <b>Stereo R-CNN based 3D Object Detection for Autonomous Driving (CVPR2019)</b> [[Paper]](https://arxiv.org/abs/1902.09738v1)
  [[Code]](https://github.com/HKUST-Aerial-Robotics/Stereo-RCNN)
-<p align="center"><img width="50%" src="https://github.com/srinu6/Stereo-3D-Object-Detection-for-Autonomous-Driving/blob/master/Result.png" /></p>
+<p align="center"><img width="50%" src="https://github.com/srinu6/3D-Machine-Learning/blob/master/imgs/Stereo%20R-CNN%203D%20Object%20Detection.png" /></p>
 
 
 
